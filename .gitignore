@@ -1,0 +1,13 @@
+*.o
+*.a
+*.out
+*.exe
+*.so
+*.dll
+*.log
+*.tmp
+*.swp
+.nfs*
+lab4b
+*.txt
+*.png
